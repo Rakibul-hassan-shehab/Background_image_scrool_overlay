@@ -1,0 +1,19 @@
+.container{
+ width: 100%;
+ height: 700px;
+ background-image: url("image/bg-image.jpg");
+ background-size: cover;
+ background-attachment: fixed;
+}
+.wraper{
+    height: 150vh;
+}
+.first-p{
+    padding: 100px 10px;
+    background-color: rgb(228, 14, 14);
+}
+.second-p{
+    margin-top: 250px;
+    padding: 100px 10px;
+    background-color: rgb(233, 11, 11);
+}
